@@ -16,25 +16,25 @@ Fabio Pena Vieira — RM: 570441
 
 -
 
-PROBLEMA
+##PROBLEMA
 
 O crescimento da mobilidade elétrica aumenta a necessidade de sistemas de carregamento mais eficientes. No entanto, muitos eletropostos usam processamento computacional excessivo para executar tarefas simples, como leitura de sensores, monitoramento da bateria e controle do carregamento. Esse processamento desnecessário gera maior consumo energético, aumento de ciclos de CPU e redução da eficiência operacional.
 
--
 
-JUSTIFICATIVA
+
+##JUSTIFICATIVA
 
 Com o aumento do uso de veículos elétricos, pequenas perdas de processamento em cada estação de carregamento podem gerar grande impacto quando multiplicadas em uma escala larga. Dessa forma, torna-se necessário desenvolver soluções capazes de reduzir o consumo computacional e otimizar a utilização dos recursos do sistema, tornando os eletropostos mais eficientes e sustentáveis.
 
--
 
-PROPOSTA DE SOLUÇÃO
+
+##PROPOSTA DE SOLUÇÃO
 
 A proposta consiste no desenvolvimento de um sistema inteligente de monitoramento e controle de carga utilizando sistemas embarcados e instruções Assembly.
 
--
 
-O SISTEMA REALIZA:
+
+##O SISTEMA REALIZA:
 
 -Monitoramento contínuo da corrente elétrica;
 -Leitura do status da bateria;
@@ -44,15 +44,15 @@ O SISTEMA REALIZA:
 
 A solução busca reduzir processamento desnecessário, aumentar a eficiência energética e garantir maior segurança durante o carregamento.
 
--
 
-ARQUITETURA UTILIZADA
+
+##ARQUITETURA UTILIZADA
 
 RISC (Reduced Instruction Set Computer).
 
--
 
-CARACTERÍSTICAS PRINCIPAIS:
+
+##CARACTERÍSTICAS PRINCIPAIS:
 
 -Menor quantidade de instruções;
 -Menos ciclos de clock;
@@ -60,7 +60,7 @@ CARACTERÍSTICAS PRINCIPAIS:
 -Menor consumo energético;
 -Melhor desempenho em sistemas embarcados.
 
-TAMBÉM FORAM UTILIZADOS CONCEITOS DE:
+##TAMBÉM FORAM UTILIZADOS CONCEITOS DE:
 
 -Pipeline;
 -Ciclos de clock;
@@ -68,7 +68,7 @@ TAMBÉM FORAM UTILIZADOS CONCEITOS DE:
 -Sistemas embarcados;
 -Programação Assembly.
 
--
+
 
 ## TRECHOS DE CÓDIGO ASSEMBLY
 
@@ -108,9 +108,9 @@ desligar_carga:
 fim:
     j fim
 ```
--
+
     
-IMPACTOS ESPERADOS
+##IMPACTOS ESPERADOS
 Espera-se que a solução proporcione:
 
 -Redução do consumo computacional;
@@ -124,7 +124,7 @@ Espera-se que a solução proporcione:
 
 A proposta contribui diretamente para a sustentabilidade ao reduzir desperdícios computacionais e otimizar o consumo de energia nos eletropostos.
 
--
+
 
 Além disso, sistemas mais eficientes podem ser integrados a fontes renováveis, como:
 
