@@ -5,10 +5,16 @@ Integrantes
 Equipe 1 – 1CCPW
 
 Lucca Bertolini — RM: 569552
+
 Diego de Oliveira Brandão — RM: 569773
+
 Raphaello Caffettani — RM: 572334
+
 Cristhian Henrique Clementino — RM: 574117
+
 Fabio Pena Vieira — RM: 570441
+
+
 Problema
 
 O crescimento da mobilidade elétrica aumenta a necessidade de sistemas de carregamento mais eficientes. Entretanto, muitos eletropostos utilizam processamento computacional excessivo para executar tarefas simples, como leitura de sensores, monitoramento da bateria e controle do carregamento. Esse processamento desnecessário gera maior consumo energético, aumento de ciclos de CPU e redução da eficiência operacional.
