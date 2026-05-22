@@ -55,17 +55,25 @@ RISC (Reduced Instruction Set Computer).
 ## CARACTERÍSTICAS PRINCIPAIS:
 
 -Menor quantidade de instruções;
+
 -Menos ciclos de clock;
+
 -Execução mais rápida;
+
 -Menor consumo energético;
+
 -Melhor desempenho em sistemas embarcados.
 
 ##TAMBÉM FORAM UTILIZADOS CONCEITOS DE:
 
 -Pipeline;
+
 -Ciclos de clock;
+
 -Memória mapeada;
+
 -Sistemas embarcados;
+
 -Programação Assembly.
 
 
@@ -114,12 +122,19 @@ fim:
 Espera-se que a solução proporcione:
 
 -Redução do consumo computacional;
+
 -Menor gasto energético;
+
 -Maior eficiência operacional;
+
 -Monitoramento em tempo real;
+
 -Maior segurança durante o carregamento;
+
 -Melhor aproveitamento dos recursos do sistema.
--Relação com sustentabilidade e energias renováveis
+
+
+## Relação com sustentabilidade e energias renováveis
 
 
 A proposta contribui diretamente para a sustentabilidade ao reduzir desperdícios computacionais e otimizar o consumo de energia nos eletropostos.
@@ -129,7 +144,9 @@ A proposta contribui diretamente para a sustentabilidade ao reduzir desperdício
 Além disso, sistemas mais eficientes podem ser integrados a fontes renováveis, como:
 
 -Energia solar;
+
 -Energia eólica;
+
 -Redes inteligentes (Smart Grid).
 
 Com isso, a solução auxilia na redução dos impactos ambientais e promove o uso mais sustentável da mobilidade elétrica.
