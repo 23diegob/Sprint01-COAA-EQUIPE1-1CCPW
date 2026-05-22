@@ -15,25 +15,25 @@ Cristhian Henrique Clementino — RM: 574117
 Fabio Pena Vieira — RM: 570441
 
 
-Problema
+PROBLEMA
 
-O crescimento da mobilidade elétrica aumenta a necessidade de sistemas de carregamento mais eficientes. Entretanto, muitos eletropostos utilizam processamento computacional excessivo para executar tarefas simples, como leitura de sensores, monitoramento da bateria e controle do carregamento. Esse processamento desnecessário gera maior consumo energético, aumento de ciclos de CPU e redução da eficiência operacional.
+O crescimento da mobilidade elétrica aumenta a necessidade de sistemas de carregamento mais eficientes. No entanto, muitos eletropostos usam processamento computacional excessivo para executar tarefas simples, como leitura de sensores, monitoramento da bateria e controle do carregamento. Esse processamento desnecessário gera maior consumo energético, aumento de ciclos de CPU e redução da eficiência operacional.
 
-Justificativa
+JUSTIFICATIVA
 
-Com o aumento do uso de veículos elétricos, pequenas perdas de processamento em cada estação de carregamento podem gerar grande impacto quando multiplicadas em larga escala. Dessa forma, torna-se necessário desenvolver soluções capazes de reduzir o consumo computacional e otimizar a utilização dos recursos do sistema, tornando os eletropostos mais eficientes e sustentáveis.
+Com o aumento do uso de veículos elétricos, pequenas perdas de processamento em cada estação de carregamento podem gerar grande impacto quando multiplicadas em uma escala larga. Dessa forma, torna-se necessário desenvolver soluções capazes de reduzir o consumo computacional e otimizar a utilização dos recursos do sistema, tornando os eletropostos mais eficientes e sustentáveis.
 
-Proposta de solução
+PROPOSTA DE SOLUÇÃO
 
 A proposta consiste no desenvolvimento de um sistema inteligente de monitoramento e controle de carga utilizando sistemas embarcados e instruções Assembly.
 
-O sistema realiza:
+O SISTEMA REALIZA:
 
-Monitoramento contínuo da corrente elétrica;
-Leitura do status da bateria;
-Controle automático do relé de carga;
-Interrupção automática em situações de risco;
-Operação otimizada com menor utilização de recursos computacionais.
+-Monitoramento contínuo da corrente elétrica;
+-Leitura do status da bateria;
+-Controle automático do relé de carga;
+-Interrupção automática em situações de risco;
+-Operação otimizada com menor utilização de recursos computacionais.
 
 A solução busca reduzir processamento desnecessário, aumentar a eficiência energética e garantir maior segurança durante o carregamento.
 
