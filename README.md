@@ -1,6 +1,7 @@
 # Sprint01-COAA-EQUIPE1-1CCPW
 Sistema Inteligente de Monitoramento e Controle de Carga para Eletropostos
-Integrantes
+
+Integrantes:
 
 Equipe 1 – 1CCPW
 
