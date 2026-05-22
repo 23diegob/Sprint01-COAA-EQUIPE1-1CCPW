@@ -68,7 +68,7 @@ RISC (Reduced Instruction Set Computer).
 
 -Melhor desempenho em sistemas embarcados.
 
-##TAMBÉM FORAM UTILIZADOS CONCEITOS DE:
+## TAMBÉM FORAM UTILIZADOS CONCEITOS DE:
 
 -Pipeline;
 
