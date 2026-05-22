@@ -37,9 +37,13 @@ A proposta consiste no desenvolvimento de um sistema inteligente de monitorament
 ## O SISTEMA REALIZA:
 
 -Monitoramento contínuo da corrente elétrica;
+
 -Leitura do status da bateria;
+
 -Controle automático do relé de carga;
+
 -Interrupção automática em situações de risco;
+
 -Operação otimizada com menor utilização de recursos computacionais.
 
 A solução busca reduzir processamento desnecessário, aumentar a eficiência energética e garantir maior segurança durante o carregamento.
