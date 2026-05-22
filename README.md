@@ -14,22 +14,25 @@ Cristhian Henrique Clementino — RM: 574117
 
 Fabio Pena Vieira — RM: 570441
 
-
+-
 
 PROBLEMA
 
 O crescimento da mobilidade elétrica aumenta a necessidade de sistemas de carregamento mais eficientes. No entanto, muitos eletropostos usam processamento computacional excessivo para executar tarefas simples, como leitura de sensores, monitoramento da bateria e controle do carregamento. Esse processamento desnecessário gera maior consumo energético, aumento de ciclos de CPU e redução da eficiência operacional.
 
+-
 
 JUSTIFICATIVA
 
 Com o aumento do uso de veículos elétricos, pequenas perdas de processamento em cada estação de carregamento podem gerar grande impacto quando multiplicadas em uma escala larga. Dessa forma, torna-se necessário desenvolver soluções capazes de reduzir o consumo computacional e otimizar a utilização dos recursos do sistema, tornando os eletropostos mais eficientes e sustentáveis.
 
+-
 
 PROPOSTA DE SOLUÇÃO
 
 A proposta consiste no desenvolvimento de um sistema inteligente de monitoramento e controle de carga utilizando sistemas embarcados e instruções Assembly.
 
+-
 
 O SISTEMA REALIZA:
 
@@ -41,11 +44,13 @@ O SISTEMA REALIZA:
 
 A solução busca reduzir processamento desnecessário, aumentar a eficiência energética e garantir maior segurança durante o carregamento.
 
+-
 
 ARQUITETURA UTILIZADA
 
 RISC (Reduced Instruction Set Computer).
 
+-
 
 CARACTERÍSTICAS PRINCIPAIS:
 
@@ -63,6 +68,7 @@ TAMBÉM FORAM UTILIZADOS CONCEITOS DE:
 -Sistemas embarcados;
 -Programação Assembly.
 
+-
 
 TRECHOS DE CÓDIGO ASSEMBLY
 
@@ -101,6 +107,7 @@ desligar_carga:
 fim:
     j fim
 
+-
     
 IMPACTOS ESPERADOS
 Espera-se que a solução proporcione:
@@ -115,6 +122,8 @@ Espera-se que a solução proporcione:
 
 
 A proposta contribui diretamente para a sustentabilidade ao reduzir desperdícios computacionais e otimizar o consumo de energia nos eletropostos.
+
+-
 
 Além disso, sistemas mais eficientes podem ser integrados a fontes renováveis, como:
 
